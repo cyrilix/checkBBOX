@@ -13,6 +13,7 @@ un redémarrage de la bbox.
 
 2. Ajuster la configuration du fichier:
 	
+```
 	# Identifiant du compte adminitrasteur, admin par défaut
 	# LOGIN=admin
 
@@ -24,6 +25,7 @@ un redémarrage de la bbox.
 
 	# HOST à pinger pour vérifier la connexion
 	# HOST_TO_PING=www.google.fr
+```
 
 3. Programmer l'exécution du script en crontab
 
