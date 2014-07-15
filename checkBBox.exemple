@@ -1,0 +1,12 @@
+# Identifiant du compte adminitrasteur, admin par défaut
+# LOGIN=admin
+
+# Mot de passe du compte administrateur
+PASSWORD=
+
+# Adresse ip ou hostname de la bbox à surveiller, 192.168.1.254 par défaut
+# IP_BBOX=192.168.1.254
+
+# HOST à pinger pour vérifier la connexion
+# HOST_TO_PING=www.google.fr
+
